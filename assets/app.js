@@ -56,7 +56,7 @@ var config = {
     console.log(newTrain.firstTrain);
     console.log(newTrain.frequency);
   
-    // Alert
+  
     alert("Train successfully added");
   
     // Clears all of the text-boxes
